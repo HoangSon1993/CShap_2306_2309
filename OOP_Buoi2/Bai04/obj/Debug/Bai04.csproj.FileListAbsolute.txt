@@ -1,0 +1,6 @@
+/Users/mac/Desktop/Workspace/C_sharp_project/OOP_Buoi2/Bai04/bin/Debug/Bai04.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/OOP_Buoi2/Bai04/bin/Debug/Bai04.pdb
+/Users/mac/Desktop/Workspace/C_sharp_project/OOP_Buoi2/Bai04/obj/Debug/Bai04.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/OOP_Buoi2/Bai04/obj/Debug/Bai04.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/OOP_Buoi2/Bai04/obj/Debug/Bai04.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/OOP_Buoi2/Bai04/obj/Debug/Bai04.pdb

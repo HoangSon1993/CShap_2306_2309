@@ -1,0 +1,6 @@
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Polymophium/Bai_01/bin/Debug/Bai_01.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Polymophium/Bai_01/bin/Debug/Bai_01.pdb
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Polymophium/Bai_01/obj/Debug/Bai_01.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Polymophium/Bai_01/obj/Debug/Bai_01.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Polymophium/Bai_01/obj/Debug/Bai_01.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Polymophium/Bai_01/obj/Debug/Bai_01.pdb

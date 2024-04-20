@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\C#\\C#_project\\App_Console\\CSharp_basic\\OOP_Buoi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D0BC3-26F6-41AE-9FE7-AF4DB2F78A33}|Bai02\\Bai02.csproj|d:\\workspace\\c#\\c#_project\\app_console\\csharp_basic\\oop_buoi1\\bai02\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D0BC3-26F6-41AE-9FE7-AF4DB2F78A33}|Bai02\\Bai02.csproj|solutionrelative:bai02\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D0BC3-26F6-41AE-9FE7-AF4DB2F78A33}|Bai02\\Bai02.csproj|d:\\workspace\\c#\\c#_project\\app_console\\csharp_basic\\oop_buoi1\\bai02\\sinhvien2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D0BC3-26F6-41AE-9FE7-AF4DB2F78A33}|Bai02\\Bai02.csproj|solutionrelative:bai02\\sinhvien2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D0BC3-26F6-41AE-9FE7-AF4DB2F78A33}|Bai02\\Bai02.csproj|d:\\workspace\\c#\\c#_project\\app_console\\csharp_basic\\oop_buoi1\\bai02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D0BC3-26F6-41AE-9FE7-AF4DB2F78A33}|Bai02\\Bai02.csproj|solutionrelative:bai02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9D0BC3-26F6-41AE-9FE7-AF4DB2F78A33}|Bai02\\Bai02.csproj|d:\\workspace\\c#\\c#_project\\app_console\\csharp_basic\\oop_buoi1\\bai02\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9D0BC3-26F6-41AE-9FE7-AF4DB2F78A33}|Bai02\\Bai02.csproj|solutionrelative:bai02\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\C#_project\\App_Console\\CSharp_basic\\OOP_Buoi1\\Bai02\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Bai02\\Rectangle.cs",
+              "ToolTip": "D:\\Workspace\\C#\\C#_project\\App_Console\\CSharp_basic\\OOP_Buoi1\\Bai02\\Rectangle.cs",
+              "RelativeToolTip": "Bai02\\Rectangle.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:52:18.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien2.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\C#_project\\App_Console\\CSharp_basic\\OOP_Buoi1\\Bai02\\SinhVien2.cs",
+              "RelativeDocumentMoniker": "Bai02\\SinhVien2.cs",
+              "ToolTip": "D:\\Workspace\\C#\\C#_project\\App_Console\\CSharp_basic\\OOP_Buoi1\\Bai02\\SinhVien2.cs",
+              "RelativeToolTip": "Bai02\\SinhVien2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:39:53.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\C#_project\\App_Console\\CSharp_basic\\OOP_Buoi1\\Bai02\\Program.cs",
+              "RelativeDocumentMoniker": "Bai02\\Program.cs",
+              "ToolTip": "D:\\Workspace\\C#\\C#_project\\App_Console\\CSharp_basic\\OOP_Buoi1\\Bai02\\Program.cs",
+              "RelativeToolTip": "Bai02\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:00:46.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Workspace\\C#\\C#_project\\App_Console\\CSharp_basic\\OOP_Buoi1\\Bai02\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Bai02\\SinhVien.cs",
+              "ToolTip": "D:\\Workspace\\C#\\C#_project\\App_Console\\CSharp_basic\\OOP_Buoi1\\Bai02\\SinhVien.cs",
+              "RelativeToolTip": "Bai02\\SinhVien.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:59:44.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 293,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6f870990-7380-58d8-93cb-aaaa2fc8daad}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

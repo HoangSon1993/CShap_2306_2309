@@ -1,0 +1,7 @@
+D:\Workspace\C#\C#_project\App_Console\CSharp_basic\OOP_Buoi1\Bai02\bin\Debug\Bai02.exe.config
+D:\Workspace\C#\C#_project\App_Console\CSharp_basic\OOP_Buoi1\Bai02\bin\Debug\Bai02.exe
+D:\Workspace\C#\C#_project\App_Console\CSharp_basic\OOP_Buoi1\Bai02\bin\Debug\Bai02.pdb
+D:\Workspace\C#\C#_project\App_Console\CSharp_basic\OOP_Buoi1\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+D:\Workspace\C#\C#_project\App_Console\CSharp_basic\OOP_Buoi1\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\C#_project\App_Console\CSharp_basic\OOP_Buoi1\Bai02\obj\Debug\Bai02.exe
+D:\Workspace\C#\C#_project\App_Console\CSharp_basic\OOP_Buoi1\Bai02\obj\Debug\Bai02.pdb

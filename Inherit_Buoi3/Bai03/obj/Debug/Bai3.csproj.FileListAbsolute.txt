@@ -1,0 +1,6 @@
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Inherit_Buoi3/Bai3/bin/Debug/Bai3.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Inherit_Buoi3/Bai3/bin/Debug/Bai3.pdb
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Inherit_Buoi3/Bai3/obj/Debug/Bai3.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Inherit_Buoi3/Bai3/obj/Debug/Bai3.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Inherit_Buoi3/Bai3/obj/Debug/Bai3.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Inherit_Buoi3/Bai3/obj/Debug/Bai3.pdb
