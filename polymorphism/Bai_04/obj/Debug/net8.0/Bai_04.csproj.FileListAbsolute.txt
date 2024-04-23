@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/bin/Debug/net8.0/Bai_04
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/bin/Debug/net8.0/Bai_04.deps.json
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/bin/Debug/net8.0/Bai_04.runtimeconfig.json
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/bin/Debug/net8.0/Bai_04.dll
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/bin/Debug/net8.0/Bai_04.pdb
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/obj/Debug/net8.0/Bai_04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/obj/Debug/net8.0/Bai_04.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/obj/Debug/net8.0/Bai_04.AssemblyInfo.cs
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/obj/Debug/net8.0/Bai_04.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/obj/Debug/net8.0/Bai_04.sourcelink.json
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/obj/Debug/net8.0/Bai_04.dll
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/obj/Debug/net8.0/refint/Bai_04.dll
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/obj/Debug/net8.0/Bai_04.pdb
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/obj/Debug/net8.0/Bai_04.genruntimeconfig.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/polymorphism/Bai_04/obj/Debug/net8.0/ref/Bai_04.dll

@@ -1,0 +1,6 @@
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Buoi6_Abstract/bin/Debug/Buoi6_Abstract.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Buoi6_Abstract/bin/Debug/Buoi6_Abstract.pdb
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Buoi6_Abstract/obj/Debug/Buoi6_Abstract.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Buoi6_Abstract/obj/Debug/Buoi6_Abstract.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Buoi6_Abstract/obj/Debug/Buoi6_Abstract.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Buoi6_Abstract/obj/Debug/Buoi6_Abstract.pdb

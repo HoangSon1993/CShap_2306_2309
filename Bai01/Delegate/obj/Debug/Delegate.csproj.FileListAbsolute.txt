@@ -1,0 +1,6 @@
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Delegate/bin/Debug/Delegate.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Delegate/bin/Debug/Delegate.pdb
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Delegate/obj/Debug/Delegate.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Delegate/obj/Debug/Delegate.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Delegate/obj/Debug/Delegate.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Bai01/Delegate/obj/Debug/Delegate.pdb
