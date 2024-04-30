@@ -1,3 +1,5 @@
+using System;
+
 namespace BT_Linq
 {
     public class Book
@@ -9,5 +11,12 @@ namespace BT_Linq
         public double Price { get; set; }
         public int Stock { get; set; }
         
+
+        public override string ToString()
+        {
+            return ($"ID: {Id} - Sku: {Sku} - Name: {Name} - Author: {Author} - Price: {Price} - Stock: {Stock}");
+        }
     }
+
+    
 }

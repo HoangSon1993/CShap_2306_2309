@@ -1,0 +1,6 @@
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Buoi07/BT_Linq/bin/Debug/BT_Linq.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Buoi07/BT_Linq/bin/Debug/BT_Linq.pdb
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Buoi07/BT_Linq/obj/Debug/BT_Linq.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Buoi07/BT_Linq/obj/Debug/BT_Linq.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Buoi07/BT_Linq/obj/Debug/BT_Linq.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/Buoi07/BT_Linq/obj/Debug/BT_Linq.pdb
