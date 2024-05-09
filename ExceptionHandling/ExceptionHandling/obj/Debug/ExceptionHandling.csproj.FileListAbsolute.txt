@@ -1,0 +1,6 @@
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/ExceptionHandling/ExceptionHandling/bin/Debug/ExceptionHandling.pdb
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/ExceptionHandling/ExceptionHandling/obj/Debug/ExceptionHandling.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/ExceptionHandling/ExceptionHandling/obj/Debug/ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/ExceptionHandling/ExceptionHandling/obj/Debug/ExceptionHandling.exe
+/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/ExceptionHandling/ExceptionHandling/obj/Debug/ExceptionHandling.pdb
