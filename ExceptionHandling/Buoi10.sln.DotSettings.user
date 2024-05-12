@@ -1,12 +1,14 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1b416cae_002Df86d_002D4d0b_002Dad6a_002Db084991e6765/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;And&gt;
-    &lt;Namespace&gt;Demo_exception&lt;/Namespace&gt;
-    &lt;Project Location="/Users/mac/Desktop/Workspace/C_sharp_project/C-Sharp_2306_2309/ExceptionHandling/Demo_exception" Presentation="&amp;lt;Demo_exception&amp;gt;" /&gt;
-  &lt;/And&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1b416cae_002Df86d_002D4d0b_002Dad6a_002Db084991e6765/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::C86BB639-B448-48E0-9726-6C87E43A2CD5::.NETFramework,Version=v4.8::Demo_exception.Tests.ProgramTest.TestPhepChia2So_ChiaChoKhong&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C86BB639-B448-48E0-9726-6C87E43A2CD5::.NETFramework,Version=v4.8::Demo_exception.Tests.ProgramTest.TestNhap_A&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C86BB639-B448-48E0-9726-6C87E43A2CD5::.NETFramework,Version=v4.8::Demo_exception.Tests.ProgramTest.TestNhap_A_SaiDinhDang&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b81165b_002De3c8_002D4ea1_002Da5a2_002D3b6a2191ba58/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestPhepChia2So" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;MSTest::C86BB639-B448-48E0-9726-6C87E43A2CD5::.NETFramework,Version=v4.8::Demo_exception.Tests.ProgramTest.TestPhepChia2So&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b81165b_002De3c8_002D4ea1_002Da5a2_002D3b6a2191ba58/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestPhepChia2So" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::C86BB639-B448-48E0-9726-6C87E43A2CD5::.NETFramework,Version=v4.8::Demo_exception.Tests.ProgramTest.TestPhepChia2So&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C86BB639-B448-48E0-9726-6C87E43A2CD5::.NETFramework,Version=v4.8::Demo_exception.Tests.ProgramTest.TestPhepChia2So_ChiaChoKhong&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

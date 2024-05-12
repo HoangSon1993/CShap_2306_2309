@@ -9,17 +9,27 @@ namespace Demo_exception.Tests
         [TestMethod]
         public void TestPhepChia2So()
         {
-            // Arrange
+            // Arrange - Định cấu trúc
+            // bằng cách khởi tạo các giá trị đầu vào và giá trị mong đợi cho kết quả trả về.
+            
+            // Giá trị đầu vào
             int a = 10;
             int b = 2;
+            
+            // Mong đợi kết quả trả về
             double expected = 5;
 
-            // Act
+            // Act - Hành động
+            // Gọi phương thức PhepChia2So với các giá trị đầu vo được chuẩn bị ở phần Arrange.
             double result;
             Program.PhepChia2So(a, b, out result);
 
-            // Assert
+            // Assert - Khẳng định
+            // Kiểm tra kết quả của Action được được thực hiện có khớp với giá trị mong đợi hay không.
+            // Sử dụng Assert.AreEqual để so sánh kết quả trả về từ phương thức "Chia2So"
             Assert.AreEqual(expected, result);
+            
+            // Nếu giá trị trả về khớp với giá trị mong đợi, unit test sẽ được coi là thành công.
         }
 
         [TestMethod]
@@ -28,16 +38,25 @@ namespace Demo_exception.Tests
             // Arrange
             int a = 10;
             int b = 0;
+            double result;
 
-            // Act & Assert
-            Assert.ThrowsException<DivideByZeroException>(() => Program.PhepChia2So(a, b, out _));
+            // cú pháp sort hand
+            // // Act & Assert
+            // Assert.ThrowsException<DivideByZeroException>(() => Program.PhepChia2So(a, b, out _));
+            
+            // cú pháp long hand
+            // Act
+            Action act = () => Program.PhepChia2So(a, b, out result);
+            
+            // Assert
+            Assert.ThrowsException<DivideByZeroException>(act);
         }
 
         [TestMethod]
         public void TestNhap_A()
         {
             // Arrange
-            string input = "1";
+            string input = "10";
             int expected = 10;
             
             // Act
